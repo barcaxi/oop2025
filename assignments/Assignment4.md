@@ -15,7 +15,7 @@ The deadline for electronic submissions is noon Friday 12th December 2025.  Subm
 
 
 
-Submit your [Assignment Cover Sheet]([resources/2024oopa4Coversheet.docx?raw=true](https://github.com/barcaxi/oop2025/raw/refs/heads/main/assignments/resources/2024oopa4Coversheet.docx)) during any lecture before the end of semester.
+Submit your [Assignment Cover Sheet](resources/2024oopa4Coversheet.docx?raw=true) during any lecture before the end of semester.
 
 
 **A note on plagiarism and cheating**
