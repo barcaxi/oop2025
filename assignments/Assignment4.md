@@ -13,21 +13,18 @@
 
 The deadline for electronic submissions is noon Friday 12th December 2025.  Submit your code via the link on BlackBoard.
 
+****
 
-
-Submit your [Assignment Cover Sheet](resources/2024oopa4Coversheet.docx?raw=true) during any lecture before the end of semester.
+Submit your [Assignment Cover Sheet](resources/CoverSheet-DeclarationofAcademicIntegrityForm-oop2025.docx) during any lecture before the end of semester.
 
 
 **A note on plagiarism and cheating**
 
-If any of the code submitted by you is deemed copied from or by someone else it will be formally 
-reported to the Head of School of Science and a Disciplinary Committee will be convened to deal with this issue.  You do not want that to happen!!
+If any of the code submitted by you is deemed copied from or by someone else it will be formally reported to the Head of School of Science and a Disciplinary Committee will be convened to deal with this issue. You do not want that to happen!!
 
-Never copy code from someone else or another source. Never give your code to someone else. Keep your
-code safely in your own possession. Plagiarism and cheating are very serious academic offenses
-with serious consequences for your future academic studies and work opportunities. Under
-current guidelines all students involved in plagiarism or cheating must be reported to the Head
-of School where a Disciplinary Committee will deal with the issue.
+Never copy code from someone else or another source. Never give your code to someone else. Do NOT use any Generative AI tool for any part of this assessment.  Only use code demonstrated in module content.  
+
+Keep your code safely in your own possession. Plagiarism and cheating are very serious academic offenses with serious consequences for your future academic studies and work opportunities. Under current guidelines all students involved in plagiarism or cheating must be reported to the Head of School where a Disciplinary Committee will deal with the issue.
 
 
 ## Introduction
