@@ -268,7 +268,7 @@ Only begin this part when you have completed or attempted all you can of *Part 2
 
 Make a copy of your ``siPart2`` project folder, paste and rename it ``siPart3``.  Use ``siPart3`` for this part of the assignment.  You will need to rename the tester program for this part to ``siPart3``.
 
-1.	Create a class called ``InvalidLineNumberException``.  See the Java Doc file [here](oop/2025/a4/doc/InvalidLineException.html).  **You MUST create the class exactly as required in the Java documentation given**.  Pay attention to inheritance, constructors and methods in this class.
+1.	Create a class called ``InvalidLineNumberException``.  See the Java Doc file [here](https://lyitbb.blackboard.com/bbcswebdav/courses/OOPR_IT603_2025_CL/a4/InvalidLineNumberException.html).  **You MUST create the class exactly as required in the Java documentation given**.  Pay attention to inheritance, constructors and methods in this class.
 
 1.	You may (or may not) have noticed that the space objects are placed in lanes numbered 0 to 9.
 
@@ -287,7 +287,7 @@ Make a copy of your ``siPart3`` project folder, paste and rename it ``siPart4``.
 
 1.	Modify the code to use an arraylist to store and display all the bunkers.
 
-1.	Create an interface called ``Blockable`` See the Java Doc file [here](oop/2025/a4/doc/Blockable.html)
+1.	Create an interface called ``Blockable`` See the Java Doc file [here](https://lyitbb.blackboard.com/bbcswebdav/courses/OOPR_IT603_2025_CL/a4/Blockable.html)
 
 1.	Provide the appropriate implementation of ``Blockable`` in the ``Bunker`` class.
 
